@@ -6,8 +6,8 @@ Platforms like those are not most effective choice tools for an on-line shopper,
 
 ## Screenshots
 
-![Screenshot-1](https://github.com/JaiParakh/Cura/image20.png)
-![Screenshot-2](https://github.com/JaiParakh/Cura/image23.png)
+![Screenshot-1](https://github.com/JaiParakh/Minor-2/blob/master/image20.png)
+![Screenshot-2](https://github.com/JaiParakh/Minor-2/blob/master/image23.png)
 
 
 ## Software Requirements
